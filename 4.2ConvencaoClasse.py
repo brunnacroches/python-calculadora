@@ -1,0 +1,8 @@
+# No Python nos definimos uma classe pela palavra-chave Class e nome da classe:
+
+ # >>>> class Calculadora: <<<<<
+
+# CONVESAO : QUANDO A GNT NOMEIA UMA CLASSE, POR CONVESAO A COLOCAMOS COM A PRIMEIRA LETRA DA PALAVRA
+# EM MAIUSCULO, INDICANDO SER CLASSE
+
+# EM SEGUIDA, UMA TERMINACAO EM  " : " , PARA INDICAR QUE DEPOIS DESSA PALAVRA COMECA O ESCOPO
